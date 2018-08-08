@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeperApp</string>
+    <string name="tv_teamA">Team A</string>
+    <string name="tv_teamB">Team B</string>
+    <string name="btn_scoreAInc">Score + 1</string>
+    <string name="btn_scoreBInc">Score + 1</string>
+    <string name="btn_reset">Restart Game</string>
+    <string name="tv_teamAScore">0</string>
+    <string name="tv_teamBScore">0</string>
+</resources>
